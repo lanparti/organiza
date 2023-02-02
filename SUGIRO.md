@@ -2,17 +2,22 @@
 2. Usa o git e o nano / vim . 
 3. Para usares o github tens de ir à tua conta, settings, developer-tools, create token ( escolhe o classico )
   - A partir dai tens de adicionar ao gitconfig ou ao vscode, o token em substituição do username e da password
+  - Também podes adicionar uma SSH-key ao teu perfil, e assim n precisas de token
+
+ > No git terias de usar a sequencia 
+
+ 1. git add .
+ 2. git commit -m "comentário do commit"
+ 3. git push 
+
+ > Terias de adicionar o token agora mas se já tens a chave de SSH basta fazeres assim: 
+
+ 1. git push git@github.com:lanparti/organiza
 
 ---
 
 Creio que se pode usar ali a tab para conversas. 
 Se estiveres entretido com o terminal, usa o gh ( q é o cliente do github para o terminal )
-
----
-
-Disse-te para te registares no codeberg mas lá te registas-te aqui. 
-
-Seja como for, é fácil gerir as duas contas. 
 
 ---
 
