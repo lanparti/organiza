@@ -13,6 +13,15 @@
  > Terias de adicionar o token agora mas se já tens a chave de SSH basta fazeres assim: 
 
  1. git push git@github.com:lanparti/organiza
+ 2. O gh (github-cli) permite escrver, ler e responder às issues, PR's, e gerir repositórios: criar, apagar, mofificar.
+    - Neste caso precisas mesmo do TOKEN 
+    - Podes sempre adicionar o token no teu ~/.bashrc 
+    
+    `export GITHUB_TOKEN="TOKENNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN"`
+    
+    - Assim basta usares num script o valor 
+
+    `echo $GITHUB_TOKEN` : deverá fazer o print do token. 
 
 ---
 
@@ -27,6 +36,7 @@ Há coisas que se calhar poderão ter de ser partilhadas.
 
 Podemos usar o google drive ou o mega. 
 
-Há outras alternativas. 
+Há outras alternativas.  
+
 
 
