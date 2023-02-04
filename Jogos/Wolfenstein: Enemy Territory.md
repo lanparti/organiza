@@ -1,15 +1,20 @@
 # Download
 
 https://www.splashdamage.com/games/wolfenstein-enemy-territory/
+
 https://store.steampowered.com/app/1873030/Wolfenstein_Enemy_Territory/
 
-# MÍNIMOS:
+# Requisitos Mínimos
 
-Sistema Operativo: English version of Windows® 98/ME/NT4.0 (SP6)/2000/XP operating system (Windows NT 4.0 not recommended for clients)
-Processador: Pentium III® 600MHz processor or AMD equivalent
+Sistema Operativo: Windows 98/ME/NT4.0 (SP6)/2000/XP (Windows NT 4.0 not recommended for clients)  
+
+Processador: Pentium III 600MHz ou AMD equivalente
+
 Memória: 128 MB de RAM
+
 Placa gráfica: 3D hardware accelerator with 32 MB with full OpenGL® support
-Espaço no disco: Requer 1 GB de espaço livre
+
+Espaço no disco: 1 GB de espaço livre
 
 # Atalhos para o Jogo no Computador
 
