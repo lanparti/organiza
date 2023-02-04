@@ -14,7 +14,13 @@
 
 Lembrem-se de que as regras podem ser ajustadas de acordo com as nossas preferências. Fora isto é só jogarem, divertirem-se, oprimirem os adversários com as vossas proezas ou culparem o material e os outros em caso de derrota ;)
 
-## Jogos sugeridos
+# Jogos 
+
+## Os que vão ser jogados na próxima LAN
+
+Serão escolhidos a partir da seguinte lista de sugestões, mediante votação dos mesmos.
+
+## Sugestões
 
 - Wolfenstein: Enemy Territory
 - TrackMania Nations Forever 
@@ -23,23 +29,16 @@ Lembrem-se de que as regras podem ser ajustadas de acordo com as nossas preferê
 - OpenLieroX
 - Duck Game
 
-## Links para download 
+## Links para download, requisitos mínimos e outras informações úteis
 
-...
+Dentro da pasta Jogos, existem ficheiros com informação dedicada a cada um deles - É IMPORTANTE LER
 
-### Requesitos minimos
-
-....
 
 ### Características dos computadores
 
-....
-
-### Jogos seleccionados
-
-....
+...
 
 ### Atalhos e sugestões 
 
-....
+...
 
