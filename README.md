@@ -12,13 +12,13 @@
 
 6. Proibido o uso de cheats, aim bots, wall hacks e afins.
 
-Lembrem-se de que as regras podem ser ajustadas de acordo com as nossas preferências. Fora isto é só jogarem, divertirem-se, oprimirem os adversários com as vossas proezas ou culparem o material e os outros em caso de derrota ;)
+> Lembrem-se de que as regras podem ser ajustadas de acordo com as nossas preferências. Fora isto é só jogarem, divertirem-se, oprimirem os adversários com as vossas proezas ou culparem o material e os outros em caso de derrota ;)
 
 # Jogos 
 
 ## Os que vão ser jogados na próxima LAN
 
-Serão escolhidos a partir da seguinte lista de sugestões, mediante votação dos mesmos.
+> Serão escolhidos a partir da seguinte lista de sugestões, mediante votação dos mesmos.
 
 ## Sugestões
 
@@ -31,7 +31,7 @@ Serão escolhidos a partir da seguinte lista de sugestões, mediante votação d
 
 ## Links para download, requisitos mínimos e outras informações úteis
 
-Dentro da pasta Jogos, existem ficheiros com informação dedicada a cada um deles - É IMPORTANTE LER
+> Dentro da pasta Jogos, existem ficheiros com informação dedicada a cada um deles - É IMPORTANTE LER
 
 
 ### Características dos computadores
