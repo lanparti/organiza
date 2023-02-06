@@ -12,7 +12,7 @@
 
 6. Proibido o uso de cheats, aim bots, wall hacks e afins.
 
-> Lembrem-se de que as regras podem ser ajustadas de acordo com as nossas preferências. Fora isto é só jogarem, divertirem-se, oprimirem os adversários com as vossas proezas ou culparem o material e os outros em caso de derrota ;)
+> Lembrem-se que as regras podem ser ajustadas de acordo com as nossas preferências. Fora isto é só jogarem, divertirem-se, oprimirem os adversários com as vossas proezas ou culparem o material e os outros em caso de derrota ;)
 
 # Jogos 
 
