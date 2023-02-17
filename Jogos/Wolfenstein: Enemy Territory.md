@@ -16,7 +16,7 @@ Placa gráfica: 3D hardware accelerator with 32 MB with full OpenGL® support
 
 Espaço no disco: 1 GB de espaço livre
 
-# Atalhos para o Jogo no Computador
+# Controlos do jogo
 
 `w`: Andar para para frente
 `s`: Andar para trás 
