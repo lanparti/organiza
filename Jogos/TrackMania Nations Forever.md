@@ -23,12 +23,12 @@ Hard drive: 1.7 GB free disk space
 
 # Controlos do jogo
 
-'setas' - conduzir
+`setas` - conduzir
 
-'Backspace' - reiniciar
+`Backspace` - reiniciar
 
-'Enter' - reanimar
+`Enter` - reanimar
 
-'1', '2', '3' - mudar a perspectiva
+`1`, `2`, `3` - mudar a perspectiva
 
-'Esc' - sair
+`Esc` - sair
