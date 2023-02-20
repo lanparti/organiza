@@ -4,6 +4,19 @@ https://www.splashdamage.com/games/wolfenstein-enemy-territory/
 
 https://store.steampowered.com/app/1873030/Wolfenstein_Enemy_Territory/
 
+# Instalação
+
+depois de instalar ir a Propriedades > Compatibilidade > Executar este programa como administrador 
+activar o Punkbuster
+
+### Widescreen resolution
+1. Make a profile in-game and set the other video settings.
+2. Go to <path-to-game>\etmain\profiles
+3. Go into the profile and edit etconfig.cfg
+4. Change seta r_mode to -1
+5. Change seta r_customwidth and seta r_customheight to match the resolution.
+Save the changes.
+
 # Requisitos Mínimos
 
 Sistema Operativo: Windows 98/ME/NT4.0 (SP6)/2000/XP (Windows NT 4.0 not recommended for clients)  
