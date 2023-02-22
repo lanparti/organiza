@@ -6,4 +6,5 @@ pkill -x ssh-agent # porque uso outros dominios
 sleep 1
 eval $(ssh-agent)
 sleep 1 
+ssh-add ~/.ssh/github_rsa
 git push git@github.com:lanparti/organiza
