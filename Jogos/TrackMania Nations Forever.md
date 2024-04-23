@@ -1,6 +1,6 @@
 # Download
 
-https://files.trackmaniaforever.com/tmnationsforever_setup.exe
+http://files.trackmaniaforever.com/tmnationsforever_setup.exe
 
 https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/
 
