@@ -1,6 +1,6 @@
 # Download
 
-https://gog-games.com/game/worms_armageddon
+https://gog-games.to/game/worms_armageddon
 
 # Requisitos Mínimos
 
