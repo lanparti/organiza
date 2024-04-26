@@ -4,7 +4,7 @@
 
 2. Definir um horário de início e também de fim, de forma a que cada um arrume o seu material e o espaço (particularmente importante se for em casa de alguém).
 
-3. Além do computador, cada um deve levar um cabo de rede, fones, extensão eléctrica, comida e bebida.
+3. Além do computador, cada um deve levar um cabo de rede, fones, extensão eléctrica, comida e bebida (a sugestão para esta 1ª sessão é um frango para assar e uma garrafa de vinho).
 
 4. Obviamente proibido o uso de cheats, aim bots, wall hacks e afins.
 
